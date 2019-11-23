@@ -19,6 +19,7 @@ namespace WindowsFormsApplication1
         int currItemWeight;
         int maxItemWeight;
         item items;
+        int asnj;
     }
 }
 }
