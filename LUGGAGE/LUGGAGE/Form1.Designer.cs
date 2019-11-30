@@ -100,7 +100,7 @@
             this.buttonLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.buttonLogin.FlatAppearance.BorderColor = System.Drawing.Color.DarkSlateGray;
             this.buttonLogin.FlatAppearance.BorderSize = 3;
-            this.buttonLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonLogin.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonLogin.Font = new System.Drawing.Font("Stylish Marker", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonLogin.Location = new System.Drawing.Point(228, 324);
             this.buttonLogin.Name = "buttonLogin";
