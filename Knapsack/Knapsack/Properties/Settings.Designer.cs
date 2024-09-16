@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LUGGAGE.Properties
+namespace Knapsack.Properties
 {
 
 
